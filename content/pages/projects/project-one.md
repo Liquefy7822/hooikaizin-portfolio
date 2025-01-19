@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: 'SIT-SST ALP(applied learning program) Camp '
 colors: colors-a
-date: '2025-01-09'
+date: '2025-01-07'
 client: Awesome client
 description: >-
   It’s hard to imagine that I’ve that I wrote all this code by myself, probably
