@@ -14,9 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: 'Hey, I''m Kai Zin! '
-    subtitle: >-
-      I’m a scholar-athlete, leader and a bunch of other impressive titles and
-      buzz words.
+    subtitle: I’m a scholar-athlete and leader.
     styles:
       self:
         height: auto
