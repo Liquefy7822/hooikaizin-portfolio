@@ -1,29 +1,38 @@
 ---
 type: ProjectLayout
-title: One more cool project
+title: Innofest
 colors: colors-a
-date: '2022-01-22'
-client: Awesome client
+date: ''
+client: SST
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably because I worked with an entire team :) but they definitely followed my lead most of the time.
+  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
+  because I worked with an entire team :) but they definitely followed my lead
+  most of the time.
 featuredImage:
   type: ImageBlock
-  url: /images/bg3.jpg
+  url: /images/Screenshot 2025-01-21 at 8.45.36 PM.jpg
   altText: Project thumbnail image
 media:
   type: ImageBlock
-  url: /images/bg3.jpg
+  url: /images/Screenshot 2025-01-21 at 8.45.36 PM.jpg
   altText: Project image
 ---
+### 3-Day Course Experience: Innovation and Workplace Safety
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien. Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem pellentesque fermentum. Sed in facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper. Donec sed facilisis nibh. Curabitur eget dui in libero euismod commodo nec sit amet est. Etiam id ipsum aliquam, vehicula erat sit amet, consequat tortor.
+On the first day, we embarked on a learning journey to 3M Innoscience, where we explored various innovative technologies and materials developed by 3M. This visit provided insights into how science and engineering drive problem-solving in different industries, from healthcare to construction. We learned about cutting-edge materials, workplace safety solutions, and how 3M fosters innovation through research and development.
 
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis. In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+On the second day, we began our project under the theme "(RE)designed to Improve Workplace Safety and Security." Our team focused on the issue of preventing heat stroke in construction sites. Our solution was a smart cooling vest equipped with:
 
-> “Everybody should learn to program a computer, because it teaches you how to think.”
+*   A thermal sensor to monitor body temperature.
 
-Vestibulum ullamcorper risus auctor eleifend consequat. Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+*   A buzzer alert to notify workers when they are overheating.
 
-Nam rutrum magna sed pellentesque lobortis. Etiam quam mauris, iaculis eget ex ac, rutrum scelerisque nisl. Cras finibus dictum ex sed tincidunt. Morbi facilisis neque porta, blandit mauris quis, pharetra odio. Aliquam dictum quam quis elit auctor, at vestibulum ex pulvinar. Quisque lobortis a lectus quis faucibus. Nulla vitae pellentesque nibh, et fringilla erat. Praesent placerat ac est at tincidunt. Praesent ultricies a ex at ultrices. Etiam sed tincidunt elit. Nulla sagittis neque neque, ultrices dignissim sapien pellentesque faucibus. Donec tempor orci sed consectetur dictum. Ut viverra ut enim ac semper. Integer lacinia sem in arcu tempor faucibus eget non urna. Praesent vel nunc eu libero aliquet interdum non vitae elit. Maecenas pharetra ipsum dolor, et iaculis elit ornare ac.
+*   A buckle-strap fan system to help cool the worker down.
 
-Aenean scelerisque ullamcorper est aliquet blandit. Donec ac tellus enim. Vivamus quis leo mattis, varius arcu at, convallis diam. Donec ac leo at nunc viverra molestie ac viverra nisi. Proin interdum at turpis at varius. Nunc sit amet ex suscipit, convallis ligula eu, pretium turpis. Sed ultricies neque vel mi malesuada, et mollis risus lobortis. Sed condimentum venenatis mauris, id elementum dolor gravida ac. Sed sodales tempus neque, quis iaculis arcu tincidunt ut. Donec vitae faucibus dui. In hac habitasse platea dictumst. Donec erat ex, ullamcorper a massa a, porttitor porta ligula.
+Although we only developed an online prototype due to time constraints, we envisioned creating a physical prototype in the future. Given more time, we would have tested different materials and refined our design for practical implementation.
+
+This experience taught me valuable skills and lessons, such as applying science and technology to solve real-world problems, especially in the context of climate and workplace safety. Beyond technical skills, I also learned the importance of teamwork and communication, as working collaboratively allowed us to refine our ideas and problem-solve effectively.
+
+Although I did not win, I found the experience incredibly rewarding and inspiring, as it pushed me to think critically and creatively about real-world challenges while working alongside like-minded peers.
+
+
