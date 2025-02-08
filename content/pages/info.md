@@ -60,7 +60,7 @@ sections:
         borderStyle: solid
   - type: MediaGallerySection
     colors: colors-f
-    subtitle: Sports
+    subtitle: ''
     images:
       - type: ImageBlock
         url: /images/logo2.svg
