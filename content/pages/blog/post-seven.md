@@ -4,7 +4,9 @@ title: Hao Ren Hao Shi
 colors: colors-a
 date: '2024-06-10'
 author: content/data/team/doris-soto.json
-excerpt: More context that may or may not be helpful
+excerpt: >-
+  ... a food drive hosted by Hao Ren Hao Shi, where we distributed essential
+  food items to the needy at an HDB void deck. 
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image1.jpg
