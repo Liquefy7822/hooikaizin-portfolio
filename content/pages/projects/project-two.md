@@ -5,9 +5,9 @@ colors: colors-a
 date: ''
 client: SST
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+  Problem statement: How can we prevent heat stroke in construction siteOur
+  focus: How can we help people know when their foods are expiring in case they
+  forget, so that they can use up the food before expiry and waste less food?
 featuredImage:
   type: ImageBlock
   url: /images/Screenshot 2025-01-21 at 8.47.48 PM.jpg
