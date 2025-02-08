@@ -4,7 +4,7 @@ title: Volunteering at lakeside
 colors: colors-a
 date: '2024-05-02'
 author: content/data/team/doris-soto.json
-excerpt: More context that may or may not be helpful
+excerpt: a water carnival organized by LakeLink RN
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image5.jpg
