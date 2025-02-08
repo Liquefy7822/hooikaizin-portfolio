@@ -4,7 +4,9 @@ title: 'Volunteering at willing hearts '
 colors: colors-a
 date: '2024-06-03'
 author: content/data/team/doris-soto.json
-excerpt: More context that may or may not be helpful
+excerpt: >-
+  Willing Hearts, a charity that prepares and delivers meals to elderly
+  individuals who are bedridden or unable to leave their homes to buy food.
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image6.jpg
