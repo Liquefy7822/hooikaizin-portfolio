@@ -2,9 +2,7 @@
 type: PostLayout
 title: Sports
 date: '2025-02-08'
-excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+excerpt: Floorball has been an integral part of my life
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
