@@ -27,6 +27,43 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 100
 author: content/data/team/doris-soto.json
+bottomSections:
+  - type: RecentPostsSection
+    subtitle: Posts
+    actions:
+      - type: Link
+        label: See all posts
+        altText: See all posts
+        url: /blog
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        elementId: ''
+    colors: colors-f
+    variant: variant-a
+    elementId: ''
+    recentCount: 2
+    showDate: true
+    showAuthor: false
+    showExcerpt: true
+    showFeaturedImage: false
+    showReadMoreLink: true
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-24
+          - pb-24
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      actions:
+        justifyContent: center
 ---
 When I first heard about the gardening workshop organized by my school, I signed up with my friend without hesitation. I wanted to make a positive change in my school and, as someone who is usually introverted, this was one of the few times I actively volunteered for something. I saw this as an opportunity to step out of my comfort zone and become more involved.
 
