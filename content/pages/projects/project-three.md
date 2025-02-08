@@ -4,10 +4,7 @@ title: Innofest
 colors: colors-a
 date: ''
 client: SST
-description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+description: ''
 featuredImage:
   type: ImageBlock
   url: /images/Screenshot 2025-01-21 at 8.45.36 PM.jpg
@@ -17,22 +14,22 @@ media:
   url: /images/Screenshot 2025-01-21 at 8.45.36 PM.jpg
   altText: Project image
 ---
-### 3-Day Course Experience: Innovation and Workplace Safety
+### 3-Day Course Experience: Innovation, Electronics, and Workplace Safety
 
-On the first day, we embarked on a learning journey to 3M Innoscience, where we explored various innovative technologies and materials developed by 3M. This visit provided insights into how science and engineering drive problem-solving in different industries, from healthcare to construction. We learned about cutting-edge materials, workplace safety solutions, and how 3M fosters innovation through research and development.
+On the first day, we embarked on a learning journey to 3M Innoscience, where we explored various innovative technologies and materials developed by 3M. This visit provided insights into how science and engineering drive problem-solving, particularly in industries such as healthcare, construction, and workplace safety. I was especially intrigued by how electronics play a role in safety solutions, from sensor-based monitoring systems to wearable technology that enhances worker protection.
 
-On the second day, we began our project under the theme "(RE)designed to Improve Workplace Safety and Security." Our team focused on the issue of preventing heat stroke in construction sites. Our solution was a smart cooling vest equipped with:
+On the second day, we began our project under the theme "(RE)designed to Improve Workplace Safety and Security." Our team focused on preventing heat stroke on construction sites by developing a smart cooling vest equipped with:
 
-*   A thermal sensor to monitor body temperature.
+*   A thermal sensor to monitor body temperature in real time.
 
-*   A buzzer alert to notify workers when they are overheating.
+*   A buzzer alert system to notify workers when they are overheating.
 
-*   A buckle-strap fan system to help cool the worker down.
+*   A buckle-strap fan system to provide active cooling.
 
-Although we only developed an online prototype due to time constraints, we envisioned creating a physical prototype in the future. Given more time, we would have tested different materials and refined our design for practical implementation.
+Although we only developed an online prototype due to time constraints, we envisioned creating a physical prototype using embedded electronics and microcontrollers to enhance functionality. Given more time, we would have tested different sensor configurations, integrated wireless connectivity for remote monitoring, and optimized power consumption for efficiency.
 
-This experience taught me valuable skills and lessons, such as applying science and technology to solve real-world problems, especially in the context of climate and workplace safety. Beyond technical skills, I also learned the importance of teamwork and communication, as working collaboratively allowed us to refine our ideas and problem-solve effectively.
+### Learning and Reflection
 
-Although I did not win, I found the experience incredibly rewarding and inspiring, as it pushed me to think critically and creatively about real-world challenges while working alongside like-minded peers.
+This experience reinforced my passion for electronics and IoT applications, as I saw firsthand how sensors and embedded systems can be used to improve workplace safety and prevent health risks. I gained valuable technical insights into how electronic components work together in safety devices, as well as how innovation drives technological advancements in real-world applications. Beyond technical skills, I also learned the importance of teamwork and communication, as collaborating with my peers helped us refine our design and problem-solve effectively.
 
-
+Although I did not win, this experience was incredibly rewarding and deepened my interest in leveraging electronics for practical solutions, inspiring me to further explore wearable technology, sensor networks, and embedded systems in the future.
