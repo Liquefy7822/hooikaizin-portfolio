@@ -92,11 +92,7 @@ sections:
       and lessons that floorball has given me. It has been a transformative
       journey, and I will always cherish the memories and values I have gained
       from this sport.
-    images:
-      - type: ImageBlock
-        url: /images/logo5.svg
-        altText: Logo five
-        caption: Logo five
+    images: []
     spacing: 3
     columns: 5
     aspectRatio: auto
