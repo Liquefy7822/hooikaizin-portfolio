@@ -32,5 +32,3 @@ Although we only created a digital prototype, we envisioned developing a physica
 Through this experience, I gained valuable technical and problem-solving skills, learning how to apply technology to real-world issues like food waste. More importantly, I developed teamwork and communication skills, as collaborating with my team was essential in refining our ideas and ensuring a well-thought-out solution.
 
 Although I did not win, the experience was extremely rewarding, as it challenged me to think creatively, work efficiently under time constraints, and develop a greater awareness of food sustainability.
-
-
