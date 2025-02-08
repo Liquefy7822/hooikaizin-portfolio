@@ -101,6 +101,7 @@ sections:
         textAlign: left
       subtitle:
         textAlign: left
+    title: Sports
   - type: DividerSection
     styles:
       self:
