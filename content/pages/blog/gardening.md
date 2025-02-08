@@ -3,8 +3,8 @@ type: PostLayout
 title: Gardening
 date: '2025-02-08'
 excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  , I hope to explore how smart systems and automation can contribute to urban
+  farming solutions, making agriculture more efficient and sustainable.
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
