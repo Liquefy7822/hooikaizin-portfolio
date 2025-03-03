@@ -44,7 +44,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/profile.png
+      url: /images/WhatsApp Image.jpeg
       altText: altText of the image
       caption: Caption of the image
       elementId: ''
