@@ -13,11 +13,22 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >-
-      ## Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
+    text: >
+      I am a passionate electronics enthusiast from Singapore's School of
+      Science and Technology (SST). My curiosity for electronics has driven me
+      to explore various projects, from circuit design to IoT applications.
+      Beyond academics, I am deeply committed to environmental sustainability,
+      having participated in environmental competitions, beach cleanups, and
+      other initiatives to promote eco-friendly habits. Additionally, I actively
+      contribute to charity work, including volunteering at Willing Hearts.
+
+
+      Sports is also a significant part of my life—I have played floorball for
+      seven years since primary school and currently serve as the vice-captain
+      of my CCA, where I lead and support my team with dedication. My
+      experiences in leadership, teamwork, and community service have shaped me
+      into a well-rounded individual, ready to contribute meaningfully to my
+      future academic and career aspirations.
     media:
       type: ImageBlock
       url: /images/WhatsApp Image.jpeg
