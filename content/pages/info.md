@@ -14,12 +14,12 @@ sections:
     colors: colors-f
     backgroundSize: full
     text: >
-      I am a passionate electronics enthusiast from the School of Science and
-      Technology (SST), Singapore. My curiosity for electronics has driven me to
-      explore various projects, from circuit design to IoT applications. Beyond
-      academics, I am deeply committed to environmental sustainability, having
-      participated in environmental competitions, beach cleanups, and other
-      initiatives to promote eco-friendly habits. Additionally, I actively
+      I am a passionate electronics enthusiast from Singapore's School of
+      Science and Technology (SST). My curiosity for electronics has driven me
+      to explore various projects, from circuit design to IoT applications.
+      Beyond academics, I am deeply committed to environmental sustainability,
+      having participated in environmental competitions, beach cleanups, and
+      other initiatives to promote eco-friendly habits. Additionally, I actively
       contribute to charity work, including volunteering at Willing Hearts.
 
 
