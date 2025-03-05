@@ -31,7 +31,7 @@ sections:
       future academic and career aspirations.
     media:
       type: ImageBlock
-      url: /images/WhatsApp Image.jpeg
+      url: /images/WhatsApp Image Crop.jpeg
       altText: Hero image
     styles:
       self:
