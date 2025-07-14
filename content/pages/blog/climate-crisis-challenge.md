@@ -8,7 +8,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/Screenshot 2025-07-14 at 7.52.59 PM.jpg
-  altText: Post thumbnail image
+  altText: Me presenting
   caption: Caption of the image
   elementId: ''
 media:
