@@ -2,9 +2,7 @@
 type: PostLayout
 title: Climate Crisis Challenge
 date: '2025-07-14'
-excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+excerpt: Participating in the Climate Crisis Challenge
 featuredImage:
   type: ImageBlock
   url: /images/Screenshot 2025-07-14 at 7.52.59 PM.jpg
